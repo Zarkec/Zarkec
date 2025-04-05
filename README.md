@@ -1,6 +1,6 @@
 ## Hello, this is Zarkec.👋
 <p align="center">
-  <img width="1000" src="https://github.com/user-attachments/assets/a95c9274-e3c8-43b9-b309-3132d78955a0" />
+  <img width="300" src="https://github.com/user-attachments/assets/a95c9274-e3c8-43b9-b309-3132d78955a0" />
 </p>
 
 <!--
