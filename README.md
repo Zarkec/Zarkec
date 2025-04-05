@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello, this is Zarkec.👋
+<p align="center">
+  <img width="1000" src="https://github.com/user-attachments/assets/a95c9274-e3c8-43b9-b309-3132d78955a0" />
+</p>
 
 <!--
 **Zarkec/Zarkec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
